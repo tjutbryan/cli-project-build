@@ -1,3 +1,5 @@
-# cli-project-build
+# Collection of CLI Projects
 
-## Project 1 Mad Libs Generator:
+## Project 1 Mad Libs:
+
+## Project 2 Personal Finance:
