@@ -1,3 +1,3 @@
 # cli-project-build
 
-# Project 1 Mad Libs Generator:
+## Project 1 Mad Libs Generator:
